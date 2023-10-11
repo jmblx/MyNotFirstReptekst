@@ -2,7 +2,7 @@
 
 ## jma
 ```shell
-git penis
+git jma
 ```
 ###
 mala
